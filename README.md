@@ -7,7 +7,6 @@ A sleek and modern **Banking App UI** built entirely with **Jetpack Compose** us
 ## ✨ Features
 
 - 🏦 **Clean and intuitive dashboard UI**
-- 📲 Fully responsive layout
 - 🎨 Uses **Material Design 3** components
 - 🌗 Light & Dark theme support
 - ♻️ Reusable composables for Cards, Buttons, Inputs, etc.
