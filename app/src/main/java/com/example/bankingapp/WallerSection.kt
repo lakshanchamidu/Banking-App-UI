@@ -1,6 +1,5 @@
 package com.example.bankingapp
 
-import android.graphics.drawable.Icon
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
@@ -39,13 +38,13 @@ fun WallerSection(){
         Column {
             Text(
                 text = "Wallet",
-                fontSize = 17.sp,
+                fontSize = 19.sp,
                 color = MaterialTheme.colorScheme.onBackground
             )
             Spacer(modifier = Modifier.height(8.dp))
             Text(
-                text = "Rs 11,278",
-                fontSize = 17.sp,
+                text = "$ 11,278",
+                fontSize = 25.sp,
                 fontWeight = FontWeight.Bold,
                 color = MaterialTheme.colorScheme.onBackground
             )

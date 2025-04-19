@@ -134,7 +134,7 @@ fun CardItem(
             )
 
             Text(
-                text = "Rs ${card.balance}",
+                text = "$ ${card.balance}",
                 color = Color.White,
                 fontSize = 22.sp,
                 fontWeight = FontWeight.Bold
